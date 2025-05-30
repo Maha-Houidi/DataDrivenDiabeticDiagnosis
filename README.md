@@ -12,5 +12,7 @@ The streamlit interface provides an interactive way to explore and visualize the
 To run the project, follow these steps:
 
 1- create a python virtual environment and activate it
+
 2- install the dependencies via requirements.txt
+
 3- run the streamlit app via streamlit run app/app.py
